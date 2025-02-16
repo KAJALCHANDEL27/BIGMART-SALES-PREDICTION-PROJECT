@@ -1,6 +1,3 @@
-# BIGMART-SALES-PREDICTION-PROJECT
-### README
-
 # BigMart Sales Prediction Project
 
 This project involves predicting the sales of items at various BigMart outlets using machine learning techniques. The primary goal is to accurately predict sales by leveraging data preprocessing, exploratory data analysis (EDA), feature engineering, and model tuning.
